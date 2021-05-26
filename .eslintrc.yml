@@ -1,0 +1,6 @@
+root: true
+extends: '@travi'
+
+overrides:
+  - files: test/smoke/**/*-spec.js
+    extends: '@travi/cypress'

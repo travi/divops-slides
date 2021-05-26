@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: divops-slides
+  description: Slidev deck about divops
+  homepage: https://github.com/travi/divops-slides#readme
+  private: false
